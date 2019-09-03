@@ -1,0 +1,11 @@
+{
+  "eslint.autoFixOnSave": true,
+  "eslint.run": "onSave",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "markdown"
+  ],
+  "javascript.format.enable": false,
+  "javascript.validate.enable": false,
+}
